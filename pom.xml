@@ -36,7 +36,7 @@
     </dependencies>
     <repositories>
         <repository>
-            <id>codeartifact</id>
+            <id>central</id>
             <name>codeartifact</name>
             <url>https://my-domain-224520910125.d.codeartifact.us-east-1.amazonaws.com/maven/my-repo/</url>
         </repository>
